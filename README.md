@@ -1,163 +1,178 @@
-#Customer
+# Customer
 
-<Aside>
-Overview
-Transaction History
-Loan
-Insurance
-FD's &Schemes
-Profile Update
-Logout
+### Aside
+- Overview  
+- Transaction History  
+- Loan  
+- Insurance  
+- FD's & Schemes  
+- Profile Update  
+- Logout  
 
-<Overview>
-Hello,"Customer Name"
-Account Number
-Current Interest
-Loan amount
-Fd's Return
-Profile Photo
-Last month total deposit
-Last month total credit
-This month total deposit
-This month total credit
-Notification
+### Overview
+- Hello, **"Customer Name"**  
+- Account Number  
+- Current Interest  
+- Loan amount  
+- FD's Return  
+- Profile Photo  
+- Last month total deposit  
+- Last month total credit  
+- This month total deposit  
+- This month total credit  
+- Notification  
 
-<Transaction History>
-This month all transactions history
+### Transaction History
+- This month all transactions history  
 
-<Loan>
-There is 5 Loans are already listed
-Personal loan 
-Education loan
-Car loan
-Home loan
-Trip loan
+### Loan
+- There are 5 Loans already listed:  
+  - Personal loan  
+  - Education loan  
+  - Car loan  
+  - Home loan  
+  - Trip loan  
 
-<Insurance>
-There is 4 Insurance schemes
-Accident Insurance 
-Health Insurance
-Term life Insurance
-Bike Insurance
-Car Insurance
+### Insurance
+- There are 4 Insurance schemes:  
+  - Accident Insurance  
+  - Health Insurance  
+  - Term life Insurance  
+  - Bike Insurance  
+  - Car Insurance  
 
-<FD's &Schemes>
-There is 3 Fd's.
-1 year Fd.
-2 year Fd.
-3 year Fd.
+### FD's & Schemes
+- There are 3 FD's:  
+  - 1 year FD  
+  - 2 year FD  
+  - 3 year FD  
 
-There is 2 schemes
-SIP
-HRI (High Return Investment)
+- There are 2 Schemes:  
+  - SIP  
+  - HRI (High Return Investment)  
 
-<Profile Update>
-(Photo,Email,and phone no., Address, Father's Name) correction will be possible only nothing else.
+### Profile Update
+- (Photo, Email, Phone no., Address, Father's Name) correction possible only.  
 
-<Logout>
-Redirect to the login page.
+### Logout
+- Redirect to the login page.  
 
+---
 
-#Employee 1 (Account Approving,Transaction approving,Profile Changes Approving,Notification to user)
+# Employee 1  
+*(Account Approving, Transaction Approving, Profile Changes Approving, Notification to User)*  
 
-<Aside>
-Overview
-Accounts Approval
-Transaction Approval
-Profile Changes Approval
-Notification to Customers
-Profile Update
-Logout
+### Aside
+- Overview  
+- Accounts Approval  
+- Transaction Approval  
+- Profile Changes Approval  
+- Notification to Customers  
+- Profile Update  
+- Logout  
 
-<Overview>
-Profile Photo
-Hello, "Employee"
-Designation
-Employee ID
-Current Salary
-Accounts Approval Due
-Transaction Approval Due
-Profile Changes Approval Due
+### Overview
+- Profile Photo  
+- Hello, **"Employee"**  
+- Designation  
+- Employee ID  
+- Current Salary  
+- Accounts Approval Due  
+- Transaction Approval Due  
+- Profile Changes Approval Due  
 
-<Accounts Approval>
-There are all the pending Approval in a small box after clocking those box the form pop up on the screen and employee can approve or reject.
+### Accounts Approval
+- Pending Approvals shown in small boxes.  
+- On clicking a box, form pops up → Employee can approve/reject.  
 
-<Transaction Approval>
-There are all the pending Approval in a small box after clocking those box the form pop up on the screen and employee can approve or reject.
+### Transaction Approval
+- Pending Approvals shown in small boxes.  
+- On clicking a box, form pops up → Employee can approve/reject.  
 
+### Profile Changes Approval
+- Pending Approvals shown in small boxes.  
+- On clicking a box, form pops up → Employee can approve/reject.  
 
-<Profile Changes Approval>
-There are all the pending Approval in a small box after clocking those box the form pop up on the screen and employee can approve or reject.
+### Notification to Customers
+- Employee can select customers on basis of:  
+  - All  
+  - Customers with Loan  
+  - Customers with FD's  
+  - Customers with Schemes  
+  - Customers with Insurance  
+- Then write a description and send.  
 
-<Notification to Customers>
-The Employee can able to select the customers on the basics like (All,those customers who have loan, those customers who have fd's,those customers who have schemes,those customers who have insurance)
+### Profile Update
+- (Photo, Email, Phone no., Address, Father's Name) correction possible only.  
 
-And then write a description and sent.
+### Logout
+- Redirect to the login page.  
 
-<Profile Update>
-(Photo,Email,and phone no., Address, Father's Name) correction will be possible only nothing else.
+---
 
-<Logout>
-Redirect to the login page.
+# Employee 2  
+*(Loan Approving, FD's Approving, Schemes Approving, Insurance Approving)*  
 
-#Employee 2 (Loan Approving,Fd's approving,schemes Approving, Insurance approving)
+### Aside
+- Overview  
+- Loan Approval  
+- FD's Approval  
+- Schemes Approval  
+- Insurance Approval  
+- Profile Update  
+- Logout  
 
-<Aside>
-Overview
-Loan Approval
-Fd's Approval
-Schemes Approval
-Insurance Approval
-Profile Update
-Logout
+### Overview
+- Profile Photo  
+- Hello, **"Employee"**  
+- Designation  
+- Employee ID  
+- Current Salary  
+- Loan Approval Due  
+- FD's Approval Due  
+- Schemes Approval Due  
+- Insurance Approval Due  
 
-<Overview>
-Profile Photo
-Hello, "Employee"
-Designation
-Employee ID
-Current Salary
-Loan Approval Due
-Fd's Approval Due
-Schemes Approval Due
-Insurance Approval Due
+### Loan Approval
+- Pending Approvals shown in small boxes.  
+- On clicking a box, form pops up → Employee can approve/reject.  
 
-<Loan Approval>
-There are all the pending Approval in a small box after clocking those box the form pop up on the screen and employee can approve or reject.
+### FD's Approval
+- Pending Approvals shown in small boxes.  
+- On clicking a box, form pops up → Employee can approve/reject.  
 
-<Fd's Approval>
-There are all the pending Approval in a small box after clocking those box the form pop up on the screen and employee can approve or reject.
+### Schemes Approval
+- Pending Approvals shown in small boxes.  
+- On clicking a box, form pops up → Employee can approve/reject.  
 
+### Insurance Approval
+- Pending Approvals shown in small boxes.  
+- On clicking a box, form pops up → Employee can approve/reject.  
 
-<Schemes Approval>
-There are all the pending Approval in a small box after clocking those box the form pop up on the screen and employee can approve or reject.
+### Profile Update
+- (Photo, Email, Phone no., Address, Father's Name) correction possible only.  
 
-<Insurance Approval>
-There are all the pending Approval in a small box after clocking those box the form pop up on the screen and employee can approve or reject.
+### Logout
+- Redirect to the login page.  
 
-<Profile Update>
-(Photo,Email,and phone no., Address, Father's Name) correction will be possible only nothing else.
+---
 
-<Logout>
-Redirect to the login page.
+# Manager  
 
-#Manager
+### Aside
+- Overview  
+- Employees Progress and Salary Control  
+- FD's Rates and Control  
+- Schemes Rates and Control  
+- Insurance Rates and Control  
+- Profile Update  
+- Logout  
 
-<Aside>
-Overview
-Employees Progress and salary control
-Fd's rates and control
-Schemes Rates and Control 
-Insurance rates and Control
-Profile Update
-Logout
+### Overview
+- Total Amount available (Sum of all customers' deposits)  
 
-<Overview>
-Total Amount available. (Sum of all customers deposit)
+### Profile Update
+- (Photo, Email, Phone no., Address, Father's Name) correction possible only.  
 
-
-<Profile Update>
-(Photo,Email,and phone no., Address, Father's Name) correction will be possible only nothing else.
-
-<Logout>
-Redirect to the login page.
+### Logout
+- Redirect to the login page.
